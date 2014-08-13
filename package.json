@@ -14,6 +14,10 @@
     "mobilecommons": ">=0.0.4"
   },
   "scripts": {
-    "test": "make test"  
+    "test": "make test"
+  },
+  "subdomain": "ds-mdata-responder",
+  "engines": {
+    "node": "v0.10.x"
   }
 }
